@@ -1,7 +1,5 @@
 package com.ice.db.mongodb;
 
-import java.io.InputStream;
-import java.util.Properties;
 import java.util.ResourceBundle;
 
 import org.apache.log4j.Logger;
